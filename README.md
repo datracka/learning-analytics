@@ -1,6 +1,6 @@
 # learning analytics
 
-to learn how google analytics internal work I created an sandbox project.
+to learn how google analytics internals I created an sandbox project.
 
 It is bound to datracka.com by now ^^
 
